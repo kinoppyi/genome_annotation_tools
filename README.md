@@ -1,2 +1,2 @@
-# genome_annotation_tools
+# genome annotation tools
 This repository contains some scripts and protocols useful durning eukaryotic genome annotation
